@@ -24,6 +24,7 @@
 <p>
   <img src="https://github.com/italomoralesf/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60">
   <img src="https://github.com/italomoralesf/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="60" height="60">
+  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEjs" alt="VUEjs" width="60" height="60">
 </p>
 
 ### Languages
