@@ -30,6 +30,6 @@
 ### Languages
 
 <p> 
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60">
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="60" height="60">
+  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60">
+  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60">
 </p>
