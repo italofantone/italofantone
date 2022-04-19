@@ -11,17 +11,23 @@
 ✨ Sígueme en Github ✨
 ![GitHub followers](https://img.shields.io/github/followers/italomoralesf?style=social)
 
----
 
 ## ✍️ Blog:
 
 - [Programación web](https://rimorsoft.com)
 
----
 
 ## 🛠 I teach:
+
+### Framework
 
 <p>
   <img src="https://github.com/italomoralesf/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60">
   <img src="https://github.com/italomoralesf/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="60" height="60">
+</p>
+
+### Languages
+
+<p>
+  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="60" height="60">
 </p>
