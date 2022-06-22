@@ -15,6 +15,7 @@
 ## ✍️ Blog:
 
 - [Programación web](https://rimorsoft.com)
+- [Cursos impartidos en Platzi](https://github.com/italomoralesf/cursos-impartidos-en-platzi)
 
 
 ## 🛠 I teach:
