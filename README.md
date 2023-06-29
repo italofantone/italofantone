@@ -1,8 +1,6 @@
-# 👋 Profesor Italo Moralesf F.
+# 👋 Italo Moralesf F.
 
-## 🔥 Social media:
-
-✨ Este es mi canal de Youtube ✨
+✨ Este es mi canal de Youtube ✨ [Full Stack Experience](https://youtube.com/@fullstackexperience?sub_confirmation=1)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRByhHailXC3HqWL2QrYw7w?style=social)
 
 ✨ ¿Necesitas algo? ¡Comencemos con un hola en Twitter! ✨
@@ -10,27 +8,3 @@
 
 ✨ Sígueme en Github ✨
 ![GitHub followers](https://img.shields.io/github/followers/italomoralesf?style=social)
-
-
-## ✍️ Blog:
-
-- [Programación web](https://rimorsoft.com)
-- [Cursos impartidos en Platzi](https://github.com/italomoralesf/cursos-impartidos-en-platzi)
-
-
-## 🛠 I teach:
-
-### Framework
-
-<p>
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60">
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="60" height="60">
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEjs" alt="VUEjs" width="60" height="60">
-</p>
-
-### Languages
-
-<p> 
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60">
-  <img src="https://github.com/italomoralesf/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60">
-</p>
