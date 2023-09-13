@@ -4,4 +4,4 @@
 - ✨ Sígueme en Github ✨
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRByhHailXC3HqWL2QrYw7w?style=social)
-![GitHub followers](https://img.shields.io/github/followers/italomoralesf?style=social)
+![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
