@@ -5,3 +5,6 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRByhHailXC3HqWL2QrYw7w?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=italofantone)
