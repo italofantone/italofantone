@@ -2,7 +2,7 @@
 
 ## Technical Lead / Senior Software Engineer
 
-I work as a Technical Lead / Senior Software Engineer with a strong focus on architecture, system design, and product-driven engineering.
+I work with a strong focus on architecture, system design, and product-driven engineering.
 
 My work emphasizes deliberate technical decisions, clear trade-offs, and long-term sustainability over short-term delivery. I care less about frameworks and more about why a system is built a certain way and how it evolves over time.
 
