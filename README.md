@@ -24,7 +24,7 @@ Laravel, PHP, and other tools appear here as implementation details, not as the 
 
 ### Other work
 
-- Podcast (engineering, clean code, architecture, and product thinking): ✨ Youtube https://youtube.com/@italofantone](https://youtube.com/@italofantone?sub_confirmation=1)
+- Podcast (engineering, clean code, architecture, and product thinking): [✨https://youtube.com/@italofantone](https://youtube.com/@italofantone?sub_confirmation=1)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyFxwGyOSgizScRL8Oi_WUA?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
