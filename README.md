@@ -6,7 +6,7 @@ I work with a strong focus on architecture, system design, and product-driven en
 
 My work emphasizes deliberate technical decisions, clear trade-offs, and long-term sustainability over short-term delivery. I care less about frameworks and more about why a system is built a certain way and how it evolves over time.
 
-### What you’ll find here
+### What you'll find here
 
 - Reference implementations focused on architectural clarity.
 - Backend and system design projects used to explore real-world trade-offs.
