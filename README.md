@@ -15,14 +15,14 @@ My work emphasizes deliberate technical decisions, clear trade-offs, and long-te
 ### How to read these projects
 
 Each repository aims to document:
-- the problem context and constraints
-- key architectural and technical decisions
-- trade-offs and alternatives considered
-- product and maintainability implications
+- The problem context and constraints
+- Key architectural and technical decisions
+- Trade-offs and alternatives considered
+- Product and maintainability implications
 
 Laravel, PHP, and other tools appear here as implementation details, not as the center of the discussion.
 
-- ✨ Youtube ✨ [Podcast](https://youtube.com/@italofantone?sub_confirmation=1)
+- [Podcast: ✨ Youtube ✨](https://youtube.com/@italofantone?sub_confirmation=1)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyFxwGyOSgizScRL8Oi_WUA?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
