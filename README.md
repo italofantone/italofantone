@@ -1,11 +1,28 @@
 # 👋 Italo Morales Fantone
 
-## Book Author | Laravel Developer | Programming Instructor
+## Technical Lead / Senior Software Engineer
 
-Programador especializado en Laravel, autor de libros técnicos y profesor de programación con más de una década de experiencia. He trabajado en proyectos reales y formo a la nueva generación de desarrolladores que busca escribir código limpio, pensar como arquitectos de software y construir productos sólidos desde cero.
+I work as a Technical Lead / Senior Software Engineer with a strong focus on architecture, system design, and product-driven engineering.
 
-- ✨ Este es mi canal de Youtube ✨ [Full-Stack Experience](https://youtube.com/@fullstackexperience?sub_confirmation=1) <br/>
-- ✨ Sígueme en Github ✨
+My work emphasizes deliberate technical decisions, clear trade-offs, and long-term sustainability over short-term delivery. I care less about frameworks and more about why a system is built a certain way and how it evolves over time.
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRByhHailXC3HqWL2QrYw7w?style=social)
+### What you’ll find here
+
+- Reference implementations focused on architectural clarity
+- Backend and system design projects used to explore real-world trade-offs
+- Code intended for review and technical discussion, not tutorials
+
+### How to read these projects
+
+Each repository aims to document:
+- the problem context and constraints
+- key architectural and technical decisions
+- trade-offs and alternatives considered
+- product and maintainability implications
+
+Laravel, PHP, and other tools appear here as implementation details, not as the center of the discussion.
+
+- ✨ Youtube ✨ [Podcast](https://youtube.com/@italofantone?sub_confirmation=1)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyFxwGyOSgizScRL8Oi_WUA?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
