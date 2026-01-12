@@ -8,17 +8,17 @@ My work emphasizes deliberate technical decisions, clear trade-offs, and long-te
 
 ### What you’ll find here
 
-- Reference implementations focused on architectural clarity
-- Backend and system design projects used to explore real-world trade-offs
-- Code intended for review and technical discussion, not tutorials
+- Reference implementations focused on architectural clarity.
+- Backend and system design projects used to explore real-world trade-offs.
+- Code intended for review and technical discussion, not tutorials.
 
 ### How to read these projects
 
 Each repository aims to document:
-- The problem context and constraints
-- Key architectural and technical decisions
-- Trade-offs and alternatives considered
-- Product and maintainability implications
+- The problem context and constraints.
+- Key architectural and technical decisions.
+- Trade-offs and alternatives considered.
+- Product and maintainability implications.
 
 Laravel, PHP, and other tools appear here as implementation details, not as the center of the discussion.
 
