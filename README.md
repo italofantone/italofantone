@@ -22,12 +22,12 @@ I believe software engineering is not just about shipping code. It’s about und
 
 ### Current Focus
 
-* Software Architecture
-* Data Systems & Analytics
-* AI-Assisted Development
-* Testing & Maintainability
-* Engineering Communication
-* Technical Education
+* Software Architecture.
+* Data Systems & Analytics.
+* AI-Assisted Development.
+* Testing & Maintainability.
+* Engineering Communication.
+* Technical Education.
 
 ### Philosophy
 
@@ -40,7 +40,9 @@ This GitHub is a public record of that journey.
 ### Other Work
 
 📚 Author of technical books on software development.
+
 🎓 Creator of programming courses for developers across Latin America.
+
 🎤 Speaker at software engineering community events.
 
 ### Other work
