@@ -6,11 +6,11 @@ _Documenting my evolution as a software engineer_.
 
 I build software, teach developers, write technical content, and continuously explore the intersection of software engineering, data, architecture, and AI-assisted development.
 
-Over the years, I’ve authored programming books, created technical courses for thousands of developers across Latin America, spoken at engineering events, and built software solutions focused on maintainability, testing, and long-term evolution.
+Over the years, I've authored programming books, created technical courses for thousands of developers across Latin America, spoken at engineering events, and built software solutions focused on maintainability, testing, and long-term evolution.
 
-I believe software engineering is not just about shipping code. It’s about understanding trade-offs, communicating ideas clearly, and building systems that remain valuable over time.
+I believe software engineering is not just about shipping code. It's about understanding trade-offs, communicating ideas clearly, and building systems that remain valuable over time.
 
-### What you’ll find here
+### What you'll find here
 
 * Software engineering experiments and explorations.
 * Architecture and system design projects.
