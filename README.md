@@ -1,30 +1,51 @@
-# 👋 Italo Morales Fantone
+# 👋 Hi, I'm Italo Morales Fantone
 
-## Technical Lead / Senior Software Engineer
+## Software Engineering + AI
 
-I work with a strong focus on architecture, system design, and product-driven engineering.
+_Documenting my evolution as a software engineer_.
 
-My work emphasizes deliberate technical decisions, clear trade-offs, and long-term sustainability over short-term delivery. I care less about frameworks and more about why a system is built a certain way and how it evolves over time.
+I build software, teach developers, write technical content, and continuously explore the intersection of software engineering, data, architecture, and AI-assisted development.
 
-### What you'll find here
+Over the years, I’ve authored programming books, created technical courses for thousands of developers across Latin America, spoken at engineering events, and built software solutions focused on maintainability, testing, and long-term evolution.
 
-- Reference implementations focused on architectural clarity.
-- Backend and system design projects used to explore real-world trade-offs.
-- Code intended for review and technical discussion, not tutorials.
+I believe software engineering is not just about shipping code. It’s about understanding trade-offs, communicating ideas clearly, and building systems that remain valuable over time.
 
-### How to read these projects
+### What you’ll find here
 
-Each repository aims to document:
-- The problem context and constraints.
-- Key architectural and technical decisions.
-- Trade-offs and alternatives considered.
-- Product and maintainability implications.
+* Software engineering experiments and explorations.
+* Architecture and system design projects.
+* Backend development and API implementations.
+* Testing, TDD, and software quality practices.
+* Data and search-related projects using SQL.
+* AI-assisted development workflows and experiments.
+* Notes and ideas from my ongoing learning journey.
 
-Laravel, PHP, and other tools appear here as implementation details, not as the center of the discussion.
+### Current Focus
+
+* Software Architecture
+* Data Systems & Analytics
+* AI-Assisted Development
+* Testing & Maintainability
+* Engineering Communication
+* Technical Education
+
+### Philosophy
+
+I care more about understanding systems than memorizing technologies.
+
+Frameworks, languages, and tools change. The ability to learn, reason, communicate, and make good engineering decisions remains valuable.
+
+This GitHub is a public record of that journey.
+
+### Other Work
+
+📚 Author of technical books on software development.
+🎓 Creator of programming courses for developers across Latin America.
+🎤 Speaker at software engineering community events.
 
 ### Other work
 
-- Podcast (engineering, clean code, architecture, and product thinking): [✨https://youtube.com/@italofantone](https://youtube.com/@italofantone?sub_confirmation=1)
+- Youtube: [✨https://youtube.com/@italofantone](https://youtube.com/@italofantone?sub_confirmation=1)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyFxwGyOSgizScRL8Oi_WUA?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/italofantone?style=social)
